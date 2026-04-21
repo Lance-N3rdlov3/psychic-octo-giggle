@@ -1,3 +1,7 @@
 ---
-title: Welcome to my blog!
+title: Info-Nerd: Knowledge is Power
 ---
+
+# The mark of my people
+
+We live in an unprecedented time, and where the civilizations and cultures that preceeded us are marked by things as diverse as cyclopean architecture, unmatched conquest, philosophical and scientific curiousity, and religous zealotry. The thing that sets us apart from our predecessors more than anything is data. We are the age of information, where in we have more accumulated knowledge than anytime or any group before us, accentuating that corpus of collective human understanding is the fact that we also have the means and ability to make that information accessible to anyone, anywhere, anytime. Regardless of where someone is from, where they are located, their socio-political or socia-economic standings, the aggregated collection of human understanding is made damn near ubiquitous thanks to generations of technological advancement culminating in todays world inundated with invisible signals moving generations of knowledge accross oceans to be accessed and seen by the masses who in generations past would have needed to sacrifice years of their lives to commit to locating the information they seek, traveling to where it's housed, studying the pages/leaves/clay onto which the words were inscribed for years, decades, sometimes lifetimes to gain from it the depth of understanding and hard won wisdom the authors spent a lifetime perfecting through trail and error and objective observation of themselves and the world in which they live.
