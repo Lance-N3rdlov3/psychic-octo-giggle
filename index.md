@@ -1,5 +1,4 @@
 ---
-title: Info-Nerd: Knowledge is Power
 ---
 
 # The mark of my people
